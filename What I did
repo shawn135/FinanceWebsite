@@ -1,0 +1,7 @@
+Must have VMware installed and centos set up prior to this project
+
+I created a Virtual machine using Vmware and centos. Inside of this machine I installed service packages and created folders and Vagrantfiles. I managed the service.
+I then edited the IP address to have a static one. 
+Grabbed a download link for a website template from the brower network and put it inside of the VM. 
+Unzipped files and placed them in the correct folder. We then deployed the data.
+
